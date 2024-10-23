@@ -1,8 +1,5 @@
 <?php
 
-echo("cabecinha do meu saco")
-echo("saco mole")
-echo("Quando eu digo que deixei de te amar")
-echo("salamaleko2")
+echo("Teste do PI")
 
 ?>

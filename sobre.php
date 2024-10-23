@@ -1,8 +1,5 @@
 <?php
 
-echo("Eu voce o mar e ela")
-echo("cavalo de troia")
-echo("salamaleko")
-echo("salamaleko")
+echo("Teste do sobre do PI")
 
 ?>
